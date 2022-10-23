@@ -1,6 +1,6 @@
 ### Faith Verus 👋
 
-> Learning with data  | Growing and learning through errors 
+> Learning with data  | Growing and Changing through errors 
 
 - 👩‍🔬 Graduate Student In Computational Biology & Bioinformatics 
 - 🔭 Currently Learning Java, R, Python and C++ 
