@@ -1,16 +1,15 @@
-### Hi there 👋
+### Faith Verus 👋
 
-<!--
-**Faith-verus/Faith-verus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Learning with data  | Growing and learning through errors 
 
-Here are some ideas to get you started:
+- 👩‍🔬 Graduate Student In Computational Biology & Bioinformatics 
+- 🔭 Currently Learning Java, R, Python and C++ 
+- 💻 Experienced working with transcriptomics and genomics data, data visualization and data analysis in R
+- 🔍 Find out more about me here: [@](https://twitter.com/Faith_verus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
