@@ -4,7 +4,7 @@
 
 - 👩‍🔬 Graduate Student In Computational Biology & Bioinformatics 
 - 🔭 Currently Learning Java, R, Python and C++ 
-- 💻 Experienced working with transcriptomics and genomics data, data visualization and data analysis in R
+- 💻 Experienced working with data visualization and analysis of  metabolomics, proteomics, and transcriptomics 
 - 🔍 Find out more about me here: [@](https://twitter.com/Faith_verus)
 
 
